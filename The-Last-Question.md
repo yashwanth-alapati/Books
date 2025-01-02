@@ -1,4 +1,4 @@
-# [The Last Question] by [Isaac Asimov]
+# The Last Question by Isaac Asimov
 
 **Publication Date:** [Publication Date]  
 **Genre:** [Genre(s)]
