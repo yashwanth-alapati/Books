@@ -5,35 +5,45 @@
 
 ---
 
-## Summary
-[Write a brief summary of the book. Focus on key points and avoid spoilers.]
+<details>
+<summary>## Review (Click to reveal - May contain spoilers)</summary>
+
+[Write a brief summary of the book. Focus on key points and avoid spoilers if possible.]
+
+</details>
 
 ---
 
-## Key Takeaways
-- [Takeaway 1]
-- [Takeaway 2]
-- [Takeaway 3]
+<details>
+<summary>## Key Takeaways (Click to reveal - May contain spoilers)</summary>
+
+- [Takeaway 1]  
+- [Takeaway 2]  
+- [Takeaway 3]  
+
+</details>
 
 ---
 
-## Favorite Quotes
+<details>
+<summary>## Favorite Quotes (Click to reveal - May contain spoilers)</summary>
+
 > "[Quote 1]"  
-> *(Page/Chapter if applicable)*
+> *(Page/Chapter if applicable)*  
 
 > "[Quote 2]"  
-> *(Page/Chapter if applicable)*
+> *(Page/Chapter if applicable)*  
+
+</details>
 
 ---
 
-## Personal Reflection
+<details>
+<summary>## Personal Reflection (Click to reveal - May contain spoilers)</summary>
+
 [Share your thoughts about the book. How did it resonate with you? Any lessons or perspectives gained?]
 
----
-
-## Additional Resources
-- [Link to Goodreads/Amazon]
-- [Link to related articles or content]
+</details>
 
 ---
 
@@ -41,4 +51,3 @@
 [What's the next book you're planning to read?]
 
 ---
-
