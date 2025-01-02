@@ -1,16 +1,14 @@
-# The Last Question by Isaac Asimov
+# [The Last Question by Isaac Asimov](https://en.wikipedia.org/wiki/The_Last_Question)
 
-**Publication Date:** [Publication Date]  
-**Genre:** [Genre(s)]
+**Publication Date:** November, 1956  
+**Genre:** Sci-fi
 
 ---
 
-<details>
-<summary>## Review (Click to reveal - May contain spoilers)</summary>
+
+## Brief Review
 
 [Write a brief summary of the book. Focus on key points and avoid spoilers if possible.]
-
-</details>
 
 ---
 
